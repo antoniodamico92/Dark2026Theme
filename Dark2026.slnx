@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="Dark2026/Dark2026.csproj">
+    <Deploy />
+  </Project>
+</Solution>

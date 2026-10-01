@@ -1,0 +1,21 @@
+C:\Users\Damico\source\repos\Dark2026\Dark2026\bin\Release\net472\Dark 2026 VS.json.pkgdef
+C:\Users\Damico\source\repos\Dark2026\Dark2026\bin\Release\net472\Dark2026.dll
+C:\Users\Damico\source\repos\Dark2026\Dark2026\bin\Release\net472\Dark2026.pdb
+C:\Users\Damico\source\repos\Dark2026\Dark2026\bin\Release\net472\Dark2026.pkgdef
+C:\Users\Damico\source\repos\Dark2026\Dark2026\bin\Release\net472\Dark2026.vsix
+C:\Users\Damico\source\repos\Dark2026\Dark2026\bin\Release\net472\extension.vsixmanifest
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\Dark2026.csproj.AssemblyReference.cache
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\_EmptyResource.resources
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\Dark2026.csproj.GenerateResource.cache
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\Dark2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\Dark2026.AssemblyInfoInputs.cache
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\Dark2026.AssemblyInfo.cs
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\Dark2026.csproj.CoreCompileInputs.cache
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\Dark2026.dll
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\Dark2026.pdb
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\Dark2026.pkgdef
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\Dark2026.latest.pkgdef
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\merged.source.extension.vsixmanifest
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\extension.vsixmanifest
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\files.json
+C:\Users\Damico\source\repos\Dark2026\Dark2026\obj\Release\net472\createTemplateManifests.cache
